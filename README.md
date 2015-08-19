@@ -1,4 +1,4 @@
 make-a
 ======
 
-Little on-going project for my kids to learn simple programming concepts.
+Little on-going project for my kids. Will see where it will take us.
